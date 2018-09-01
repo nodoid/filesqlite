@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{2C64377E-7474-41DE-85AB-1CC0AB3BEF3B}|Default">
+  <MonoDevelop.Ide.ItemProperties.filesqlite.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.filesqlite.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.filesqlite FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
